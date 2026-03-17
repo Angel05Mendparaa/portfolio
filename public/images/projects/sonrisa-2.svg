@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <rect width="600" height="400" fill="#FFF3E0"/>
+  <ellipse cx="540" cy="380" rx="140" ry="110" fill="#FFE0B2" opacity="0.5"/>
+  <ellipse cx="60" cy="60" rx="90" ry="70" fill="#DCEDC8" opacity="0.5"/>
+
+  <!-- heading -->
+  <text font-family="Arial" font-size="28" font-weight="800" fill="#E64A19" x="40" y="70">Share</text>
+  <text font-family="Arial" font-size="28" font-weight="800" fill="#FF7043" x="40" y="100">A Meal.</text>
+  <text font-family="Arial" font-size="12" fill="#A1887F" x="40" y="122">Connecting donors, NGOs &amp; volunteers</text>
+
+  <!-- flow diagram simplified -->
+  <!-- donor -->
+  <rect x="40" y="155" width="110" height="60" rx="12" fill="#FF8A65"/>
+  <text font-family="Arial" font-size="10" font-weight="700" fill="#fff" x="95" y="180" text-anchor="middle">Donor /</text>
+  <text font-family="Arial" font-size="10" font-weight="700" fill="#fff" x="95" y="194" text-anchor="middle">Restaurant</text>
+  <text font-family="Arial" font-size="8" fill="#FFD0B0" x="95" y="207" text-anchor="middle">Lists food</text>
+
+  <!-- arrow -->
+  <line x1="152" y1="185" x2="195" y2="185" stroke="#FF7043" stroke-width="2" stroke-dasharray="4 3"/>
+  <polygon points="195,180 205,185 195,190" fill="#FF7043"/>
+
+  <!-- platform -->
+  <rect x="207" y="145" width="120" height="80" rx="14" fill="#FF5722"/>
+  <text font-family="Arial" font-size="11" font-weight="800" fill="#fff" x="267" y="175" text-anchor="middle">Sonrisa</text>
+  <text font-family="Arial" font-size="8" fill="#FFD0B0" x="267" y="190" text-anchor="middle">Platform</text>
+  <text font-family="Arial" font-size="7" fill="#FFB299" x="267" y="203" text-anchor="middle">Matches &amp; routes</text>
+  <text font-family="Arial" font-size="7" fill="#FFB299" x="267" y="214" text-anchor="middle">donations</text>
+
+  <!-- arrow out -->
+  <line x1="329" y1="175" x2="366" y2="175" stroke="#66BB6A" stroke-width="2" stroke-dasharray="4 3"/>
+  <polygon points="366,170 376,175 366,180" fill="#66BB6A"/>
+  <line x1="329" y1="200" x2="366" y2="200" stroke="#42A5F5" stroke-width="2" stroke-dasharray="4 3"/>
+  <polygon points="366,195 376,200 366,205" fill="#42A5F5"/>
+
+  <!-- NGO -->
+  <rect x="378" y="155" width="100" height="46" rx="10" fill="#43A047"/>
+  <text font-family="Arial" font-size="10" font-weight="700" fill="#fff" x="428" y="176" text-anchor="middle">NGO</text>
+  <text font-family="Arial" font-size="8" fill="#C8E6C9" x="428" y="190" text-anchor="middle">Receives &amp; distributes</text>
+
+  <!-- Volunteer -->
+  <rect x="378" y="210" width="100" height="46" rx="10" fill="#1E88E5"/>
+  <text font-family="Arial" font-size="10" font-weight="700" fill="#fff" x="428" y="231" text-anchor="middle">Volunteer</text>
+  <text font-family="Arial" font-size="8" fill="#BBDEFB" x="428" y="245" text-anchor="middle">Picks up &amp; delivers</text>
+
+  <!-- arrow to people in need -->
+  <line x1="480" y1="185" x2="516" y2="220" stroke="#FF7043" stroke-width="1.5" stroke-dasharray="3 3"/>
+  <line x1="480" y1="233" x2="516" y2="225" stroke="#FF7043" stroke-width="1.5" stroke-dasharray="3 3"/>
+  <rect x="518" y="200" width="64" height="40" rx="8" fill="#FFF3E0" stroke="#FF7043" stroke-width="1"/>
+  <text font-family="Arial" font-size="8" font-weight="700" fill="#BF360C" x="550" y="218" text-anchor="middle">People</text>
+  <text font-family="Arial" font-size="8" font-weight="700" fill="#BF360C" x="550" y="230" text-anchor="middle">in Need</text>
+
+  <!-- stats row -->
+  <rect x="40" y="290" width="120" height="64" rx="12" fill="#fff" stroke="#FFD0B8" stroke-width="1"/>
+  <text font-family="Arial" font-size="20" font-weight="800" fill="#E64A19" x="100" y="325" text-anchor="middle">5K+</text>
+  <text font-family="Arial" font-size="8" fill="#A1887F" x="100" y="342" text-anchor="middle">Meals Donated</text>
+
+  <rect x="175" y="290" width="120" height="64" rx="12" fill="#fff" stroke="#D0EAD0" stroke-width="1"/>
+  <text font-family="Arial" font-size="20" font-weight="800" fill="#2E7D32" x="235" y="325" text-anchor="middle">80+</text>
+  <text font-family="Arial" font-size="8" fill="#81C784" x="235" y="342" text-anchor="middle">NGO Partners</text>
+
+  <rect x="310" y="290" width="120" height="64" rx="12" fill="#fff" stroke="#BBDEFB" stroke-width="1"/>
+  <text font-family="Arial" font-size="20" font-weight="800" fill="#1565C0" x="370" y="325" text-anchor="middle">200+</text>
+  <text font-family="Arial" font-size="8" fill="#64B5F6" x="370" y="342" text-anchor="middle">Volunteers</text>
+
+  <rect x="445" y="290" width="120" height="64" rx="12" fill="#fff" stroke="#FFE0B2" stroke-width="1"/>
+  <text font-family="Arial" font-size="20" font-weight="800" fill="#F57C00" x="505" y="325" text-anchor="middle">2</text>
+  <text font-family="Arial" font-size="8" fill="#FFA726" x="505" y="342" text-anchor="middle">Donation Flows</text>
+</svg>

@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <rect width="600" height="400" fill="#FFF7F0"/>
+  <!-- background blobs -->
+  <ellipse cx="520" cy="60" rx="120" ry="100" fill="#FFE8D0" opacity="0.7"/>
+  <ellipse cx="80" cy="340" rx="100" ry="80" fill="#E8F5E2" opacity="0.7"/>
+
+  <!-- phone frame -->
+  <rect x="195" y="40" width="210" height="320" rx="24" fill="#FFFFFF" stroke="#F0D0B8" stroke-width="1.5"/>
+  <rect x="205" y="52" width="190" height="295" rx="16" fill="#FFF9F5"/>
+
+  <!-- status bar -->
+  <rect x="205" y="52" width="190" height="32" rx="16" fill="#FF7043"/>
+  <text font-family="Arial" font-size="10" font-weight="600" fill="#fff" x="300" y="72" text-anchor="middle">Sonrisa</text>
+
+  <!-- hero card -->
+  <rect x="215" y="96" width="170" height="80" rx="10" fill="#FF8A65" opacity="0.15"/>
+  <text font-family="Arial" font-size="9" font-weight="600" fill="#BF360C" x="300" y="120" text-anchor="middle">Share a Meal Today</text>
+  <text font-family="Arial" font-size="8" fill="#E64A19" x="300" y="136" text-anchor="middle">Connect. Donate. Impact.</text>
+  <!-- food icon simple -->
+  <ellipse cx="300" cy="158" rx="14" ry="8" fill="#FF7043" opacity="0.6"/>
+  <ellipse cx="300" cy="154" rx="10" ry="6" fill="#FF8A65"/>
+
+  <!-- two option buttons -->
+  <rect x="218" y="188" width="78" height="38" rx="8" fill="#FF7043"/>
+  <text font-family="Arial" font-size="8" font-weight="600" fill="#fff" x="257" y="204" text-anchor="middle">NGO Contact</text>
+  <text font-family="Arial" font-size="7" fill="#FFD0B0" x="257" y="216" text-anchor="middle">Direct donate</text>
+
+  <rect x="304" y="188" width="78" height="38" rx="8" fill="#66BB6A"/>
+  <text font-family="Arial" font-size="8" font-weight="600" fill="#fff" x="343" y="204" text-anchor="middle">Volunteer</text>
+  <text font-family="Arial" font-size="7" fill="#C8E6C9" x="343" y="216" text-anchor="middle">Pickup service</text>
+
+  <!-- donor cards -->
+  <rect x="218" y="236" width="164" height="30" rx="6" fill="#fff" stroke="#FFD0B8" stroke-width="1"/>
+  <circle cx="234" cy="251" r="8" fill="#FFE0CC"/>
+  <text font-family="Arial" font-size="8" font-weight="600" fill="#5D4037" x="247" y="249" dominant-baseline="middle">Restaurant Al-Noor</text>
+  <text font-family="Arial" font-size="7" fill="#A1887F" x="247" y="260" dominant-baseline="middle">12 meals available</text>
+
+  <rect x="218" y="272" width="164" height="30" rx="6" fill="#fff" stroke="#D0EAD0" stroke-width="1"/>
+  <circle cx="234" cy="287" r="8" fill="#C8E6C9"/>
+  <text font-family="Arial" font-size="8" font-weight="600" fill="#2E7D32" x="247" y="285" dominant-baseline="middle">Green Kitchen NGO</text>
+  <text font-family="Arial" font-size="7" fill="#66BB6A" x="247" y="296" dominant-baseline="middle">Accepting donations</text>
+
+  <!-- bottom nav -->
+  <rect x="205" y="316" width="190" height="31" rx="0" fill="#fff" stroke="#F5E0D0" stroke-width="0.5"/>
+  <text font-family="Arial" font-size="7" fill="#FF7043" x="240" y="335" text-anchor="middle">Home</text>
+  <text font-family="Arial" font-size="7" fill="#BCAAA4" x="280" y="335" text-anchor="middle">Donate</text>
+  <text font-family="Arial" font-size="7" fill="#BCAAA4" x="320" y="335" text-anchor="middle">Track</text>
+  <text font-family="Arial" font-size="7" fill="#BCAAA4" x="360" y="335" text-anchor="middle">Profile</text>
+
+  <!-- floating tag left -->
+  <rect x="30" y="150" width="130" height="36" rx="10" fill="#FF7043"/>
+  <text font-family="Arial" font-size="10" font-weight="700" fill="#fff" x="95" y="168" text-anchor="middle">Food for all</text>
+  <text font-family="Arial" font-size="8" fill="#FFD0B0" x="95" y="180" text-anchor="middle">Zero waste mission</text>
+
+  <!-- floating tag right -->
+  <rect x="440" y="220" width="130" height="36" rx="10" fill="#43A047"/>
+  <text font-family="Arial" font-size="10" font-weight="700" fill="#fff" x="505" y="238" text-anchor="middle">3,200+ meals</text>
+  <text font-family="Arial" font-size="8" fill="#C8E6C9" x="505" y="250" text-anchor="middle">donated this month</text>
+
+  <!-- label -->
+  <text font-family="Arial" font-size="11" font-weight="700" fill="#BF360C" x="30" y="380">Sonrisa</text>
+  <text font-family="Arial" font-size="9" fill="#E64A19" x="30" y="394">Food Charity Web Application</text>
+</svg>

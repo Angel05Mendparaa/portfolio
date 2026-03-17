@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <rect width="600" height="400" fill="#F3F0FF"/>
+  <ellipse cx="540" cy="60" rx="110" ry="90" fill="#E1D5FB" opacity="0.5"/>
+  <ellipse cx="60" cy="360" rx="90" ry="70" fill="#D1C4E9" opacity="0.5"/>
+
+  <!-- header bar -->
+  <rect x="0" y="0" width="600" height="54" fill="#4527A0"/>
+  <text font-family="Arial" font-size="14" font-weight="800" fill="#EDE7F6" x="28" y="22">Vitality</text>
+  <text font-family="Arial" font-size="9" fill="#B39DDB" x="28" y="40">IVF Clinical Decision Support Platform</text>
+  <rect x="472" y="14" width="110" height="26" rx="8" fill="#6A1B9A"/>
+  <text font-family="Arial" font-size="9" fill="#CE93D8" x="527" y="27" text-anchor="middle" dominant-baseline="middle">Embryo Evaluation</text>
+
+  <!-- main split layout -->
+  <!-- left: embryo selector -->
+  <rect x="20" y="70" width="200" height="310" rx="10" fill="#fff" stroke="#D1C4E9" stroke-width="1"/>
+  <text font-family="Arial" font-size="9" font-weight="700" fill="#4527A0" x="120" y="90" text-anchor="middle">Embryo Cohort</text>
+  <text font-family="Arial" font-size="8" fill="#9E9E9E" x="120" y="104" text-anchor="middle">Day 5 Blastocysts · Cycle #3</text>
+
+  <!-- embryo cards -->
+  <rect x="32" y="112" width="176" height="50" rx="8" fill="#EDE7F6" stroke="#9575CD" stroke-width="1"/>
+  <circle cx="56" cy="137" r="14" fill="#D1C4E9" stroke="#9575CD" stroke-width="1"/>
+  <text font-family="Arial" font-size="8" fill="#9575CD" x="56" y="141" text-anchor="middle" dominant-baseline="middle">E-01</text>
+  <text font-family="Arial" font-size="8" font-weight="700" fill="#311B92" x="76" y="132" dominant-baseline="middle">Embryo 01</text>
+  <text font-family="Arial" font-size="7" fill="#7E57C2" x="76" y="144" dominant-baseline="middle">4AA · Grade: Excellent</text>
+  <rect x="168" y="124" width="32" height="14" rx="4" fill="#4CAF50"/>
+  <text font-family="Arial" font-size="6" fill="#fff" x="184" y="131" text-anchor="middle" dominant-baseline="middle">Select</text>
+
+  <rect x="32" y="168" width="176" height="50" rx="8" fill="#F3F0FF" stroke="#CE93D8" stroke-width="0.8"/>
+  <circle cx="56" cy="193" r="14" fill="#EDE7F6" stroke="#CE93D8" stroke-width="0.8"/>
+  <text font-family="Arial" font-size="8" fill="#CE93D8" x="56" y="197" text-anchor="middle" dominant-baseline="middle">E-02</text>
+  <text font-family="Arial" font-size="8" font-weight="600" fill="#4A148C" x="76" y="188" dominant-baseline="middle">Embryo 02</text>
+  <text font-family="Arial" font-size="7" fill="#9C27B0" x="76" y="200" dominant-baseline="middle">3BB · Grade: Good</text>
+
+  <rect x="32" y="224" width="176" height="50" rx="8" fill="#F3F0FF" stroke="#CE93D8" stroke-width="0.8"/>
+  <circle cx="56" cy="249" r="14" fill="#EDE7F6" stroke="#CE93D8" stroke-width="0.8"/>
+  <text font-family="Arial" font-size="8" fill="#CE93D8" x="56" y="253" text-anchor="middle" dominant-baseline="middle">E-03</text>
+  <text font-family="Arial" font-size="8" font-weight="600" fill="#4A148C" x="76" y="244" dominant-baseline="middle">Embryo 03</text>
+  <text font-family="Arial" font-size="7" fill="#9C27B0" x="76" y="256" dominant-baseline="middle">3BC · Grade: Fair</text>
+
+  <rect x="32" y="280" width="176" height="50" rx="8" fill="#FFEBEE" stroke="#EF9A9A" stroke-width="0.8"/>
+  <circle cx="56" cy="305" r="14" fill="#FFCDD2" stroke="#EF9A9A" stroke-width="0.8"/>
+  <text font-family="Arial" font-size="8" fill="#C62828" x="56" y="309" text-anchor="middle" dominant-baseline="middle">E-04</text>
+  <text font-family="Arial" font-size="8" font-weight="600" fill="#B71C1C" x="76" y="300" dominant-baseline="middle">Embryo 04</text>
+  <text font-family="Arial" font-size="7" fill="#EF9A9A" x="76" y="312" dominant-baseline="middle">2CC · Grade: Poor</text>
+
+  <!-- right: evaluation panel -->
+  <rect x="232" y="70" width="348" height="310" rx="10" fill="#fff" stroke="#D1C4E9" stroke-width="1"/>
+  <rect x="232" y="70" width="348" height="36" rx="10" fill="#6A1B9A"/>
+  <rect x="232" y="90" width="348" height="16" rx="0" fill="#6A1B9A"/>
+  <text font-family="Arial" font-size="10" font-weight="700" fill="#fff" x="406" y="92" text-anchor="middle">Evaluation: Embryo 01 — 4AA</text>
+
+  <!-- score circle -->
+  <circle cx="300" cy="165" r="40" fill="#EDE7F6" stroke="#9575CD" stroke-width="2"/>
+  <circle cx="300" cy="165" r="32" fill="#fff"/>
+  <text font-family="Arial" font-size="18" font-weight="800" fill="#4527A0" x="300" y="171" text-anchor="middle">92</text>
+  <text font-family="Arial" font-size="7" fill="#7E57C2" x="300" y="182" text-anchor="middle">Score</text>
+
+  <!-- metrics -->
+  <text font-family="Arial" font-size="8" font-weight="700" fill="#4527A0" x="368" y="126">Morphology Markers</text>
+  <rect x="368" y="132" width="196" height="14" rx="3" fill="#EDE7F6"/>
+  <rect x="368" y="132" width="176" height="14" rx="3" fill="#7E57C2"/>
+  <text font-family="Arial" font-size="7" fill="#fff" x="374" y="143" dominant-baseline="middle">ICM Quality · 90%</text>
+
+  <rect x="368" y="152" width="196" height="14" rx="3" fill="#EDE7F6"/>
+  <rect x="368" y="152" width="156" height="14" rx="3" fill="#9575CD"/>
+  <text font-family="Arial" font-size="7" fill="#fff" x="374" y="163" dominant-baseline="middle">TE Cells · 80%</text>
+
+  <rect x="368" y="172" width="196" height="14" rx="3" fill="#EDE7F6"/>
+  <rect x="368" y="172" width="186" height="14" rx="3" fill="#7E57C2"/>
+  <text font-family="Arial" font-size="7" fill="#fff" x="374" y="183" dominant-baseline="middle">Expansion · 95%</text>
+
+  <!-- notes section -->
+  <rect x="248" y="215" width="316" height="80" rx="8" fill="#F3F0FF" stroke="#D1C4E9" stroke-width="0.8"/>
+  <text font-family="Arial" font-size="8" font-weight="700" fill="#4527A0" x="258" y="230">Specialist Notes</text>
+  <text font-family="Arial" font-size="8" fill="#5E35B1" x="258" y="246">Excellent blastocyst morphology. ICM is tightly packed with</text>
+  <text font-family="Arial" font-size="8" fill="#5E35B1" x="258" y="258">defined cells. TE is well cohesive. Recommended for</text>
+  <text font-family="Arial" font-size="8" fill="#5E35B1" x="258" y="270">priority transfer. Cryopreservation viable.</text>
+  <text font-family="Arial" font-size="7" fill="#9E9E9E" x="258" y="286">Dr. Sharma · 14 Mar 2026</text>
+
+  <!-- action buttons -->
+  <rect x="248" y="306" width="100" height="28" rx="7" fill="#4527A0"/>
+  <text font-family="Arial" font-size="9" fill="#fff" x="298" y="320" text-anchor="middle" dominant-baseline="middle">Recommend</text>
+  <rect x="358" y="306" width="100" height="28" rx="7" fill="#E8F5E9" stroke="#A5D6A7" stroke-width="0.8"/>
+  <text font-family="Arial" font-size="9" fill="#2E7D32" x="408" y="320" text-anchor="middle" dominant-baseline="middle">Cryopreserve</text>
+  <rect x="468" y="306" width="96" height="28" rx="7" fill="#FFF3E0" stroke="#FFCC80" stroke-width="0.8"/>
+  <text font-family="Arial" font-size="9" fill="#E65100" x="516" y="320" text-anchor="middle" dominant-baseline="middle">Further Review</text>
+</svg>

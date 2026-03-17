@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <rect width="600" height="400" fill="#1A0533"/>
+  <ellipse cx="500" cy="80" rx="200" ry="140" fill="#4A148C" opacity="0.3"/>
+  <ellipse cx="100" cy="340" rx="160" ry="100" fill="#311B92" opacity="0.3"/>
+
+  <text font-family="Arial" font-size="30" font-weight="800" fill="#EDE7F6" x="40" y="64">Vitality</text>
+  <text font-family="Arial" font-size="11" fill="#B39DDB" x="40" y="84">Precision tools for IVF specialists</text>
+
+  <!-- 3 metric cards -->
+  <rect x="40" y="108" width="154" height="100" rx="12" fill="#2D1B5E" stroke="#7E57C2" stroke-width="0.8"/>
+  <text font-family="Arial" font-size="9" fill="#B39DDB" x="117" y="128" text-anchor="middle">Embryos Evaluated</text>
+  <text font-family="Arial" font-size="32" font-weight="800" fill="#CE93D8" x="117" y="174" text-anchor="middle">47</text>
+  <text font-family="Arial" font-size="7" fill="#7E57C2" x="117" y="196" text-anchor="middle">this cycle</text>
+
+  <rect x="208" y="108" width="154" height="100" rx="12" fill="#2D1B5E" stroke="#7E57C2" stroke-width="0.8"/>
+  <text font-family="Arial" font-size="9" fill="#B39DDB" x="285" y="128" text-anchor="middle">Avg. Score</text>
+  <text font-family="Arial" font-size="32" font-weight="800" fill="#E1BEE7" x="285" y="174" text-anchor="middle">83</text>
+  <text font-family="Arial" font-size="7" fill="#7E57C2" x="285" y="196" text-anchor="middle">morphology index</text>
+
+  <rect x="376" y="108" width="184" height="100" rx="12" fill="#2D1B5E" stroke="#9575CD" stroke-width="0.8"/>
+  <text font-family="Arial" font-size="9" fill="#B39DDB" x="468" y="128" text-anchor="middle">Transfer Success Rate</text>
+  <text font-family="Arial" font-size="32" font-weight="800" fill="#69F0AE" x="468" y="174" text-anchor="middle">68%</text>
+  <text font-family="Arial" font-size="7" fill="#4DB6AC" x="468" y="196" text-anchor="middle">last 6 cycles</text>
+
+  <!-- comparison table -->
+  <rect x="40" y="226" width="520" height="150" rx="10" fill="#2D1B5E" stroke="#4A148C" stroke-width="0.8"/>
+  <text font-family="Arial" font-size="9" font-weight="700" fill="#CE93D8" x="56" y="248">Embryo Comparison — Day 5</text>
+
+  <!-- table header -->
+  <rect x="40" y="256" width="520" height="20" rx="0" fill="#4527A0"/>
+  <text font-family="Arial" font-size="7" font-weight="700" fill="#EDE7F6" x="80" y="270" text-anchor="middle">Embryo</text>
+  <text font-family="Arial" font-size="7" font-weight="700" fill="#EDE7F6" x="180" y="270" text-anchor="middle">Grade</text>
+  <text font-family="Arial" font-size="7" font-weight="700" fill="#EDE7F6" x="280" y="270" text-anchor="middle">ICM</text>
+  <text font-family="Arial" font-size="7" font-weight="700" fill="#EDE7F6" x="380" y="270" text-anchor="middle">TE</text>
+  <text font-family="Arial" font-size="7" font-weight="700" fill="#EDE7F6" x="490" y="270" text-anchor="middle">Recommendation</text>
+
+  <!-- rows -->
+  <text font-family="Arial" font-size="7" fill="#CE93D8" x="80" y="292" text-anchor="middle">E-01</text>
+  <text font-family="Arial" font-size="7" fill="#E1BEE7" x="180" y="292" text-anchor="middle">4AA</text>
+  <text font-family="Arial" font-size="7" fill="#69F0AE" x="280" y="292" text-anchor="middle">Excellent</text>
+  <text font-family="Arial" font-size="7" fill="#69F0AE" x="380" y="292" text-anchor="middle">Excellent</text>
+  <rect x="446" y="282" width="88" height="14" rx="4" fill="#1B5E20"/>
+  <text font-family="Arial" font-size="7" fill="#69F0AE" x="490" y="292" text-anchor="middle">Transfer</text>
+
+  <rect x="40" y="298" width="520" height="1" fill="#4A148C" opacity="0.5"/>
+
+  <text font-family="Arial" font-size="7" fill="#CE93D8" x="80" y="316" text-anchor="middle">E-02</text>
+  <text font-family="Arial" font-size="7" fill="#E1BEE7" x="180" y="316" text-anchor="middle">3BB</text>
+  <text font-family="Arial" font-size="7" fill="#FFE082" x="280" y="316" text-anchor="middle">Good</text>
+  <text font-family="Arial" font-size="7" fill="#FFE082" x="380" y="316" text-anchor="middle">Good</text>
+  <rect x="446" y="306" width="88" height="14" rx="4" fill="#1A237E"/>
+  <text font-family="Arial" font-size="7" fill="#90CAF9" x="490" y="316" text-anchor="middle">Freeze</text>
+
+  <rect x="40" y="322" width="520" height="1" fill="#4A148C" opacity="0.5"/>
+
+  <text font-family="Arial" font-size="7" fill="#CE93D8" x="80" y="340" text-anchor="middle">E-03</text>
+  <text font-family="Arial" font-size="7" fill="#E1BEE7" x="180" y="340" text-anchor="middle">3BC</text>
+  <text font-family="Arial" font-size="7" fill="#FFAB91" x="280" y="340" text-anchor="middle">Good</text>
+  <text font-family="Arial" font-size="7" fill="#EF9A9A" x="380" y="340" text-anchor="middle">Fair</text>
+  <rect x="446" y="330" width="88" height="14" rx="4" fill="#3E2723"/>
+  <text font-family="Arial" font-size="7" fill="#FFAB91" x="490" y="340" text-anchor="middle">Review</text>
+
+  <rect x="40" y="346" width="520" height="1" fill="#4A148C" opacity="0.5"/>
+
+  <text font-family="Arial" font-size="7" fill="#CE93D8" x="80" y="364" text-anchor="middle">E-04</text>
+  <text font-family="Arial" font-size="7" fill="#E1BEE7" x="180" y="364" text-anchor="middle">2CC</text>
+  <text font-family="Arial" font-size="7" fill="#EF9A9A" x="280" y="364" text-anchor="middle">Poor</text>
+  <text font-family="Arial" font-size="7" fill="#EF9A9A" x="380" y="364" text-anchor="middle">Poor</text>
+  <rect x="446" y="354" width="88" height="14" rx="4" fill="#4E342E"/>
+  <text font-family="Arial" font-size="7" fill="#FFCDD2" x="490" y="364" text-anchor="middle">Discard</text>
+</svg>

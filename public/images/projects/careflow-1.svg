@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <rect width="600" height="400" fill="#E8F4FD"/>
+  <ellipse cx="560" cy="40" rx="100" ry="80" fill="#BBDEFB" opacity="0.5"/>
+  <ellipse cx="40" cy="380" rx="90" ry="70" fill="#B3E5FC" opacity="0.4"/>
+
+  <!-- sidebar -->
+  <rect x="0" y="0" width="130" height="400" fill="#1565C0"/>
+  <text font-family="Arial" font-size="11" font-weight="800" fill="#fff" x="65" y="34" text-anchor="middle">CareFlow</text>
+  <text font-family="Arial" font-size="9" fill="#90CAF9" x="65" y="48" text-anchor="middle">Nexus</text>
+  <line x1="15" y1="58" x2="115" y2="58" stroke="#1976D2" stroke-width="0.8"/>
+
+  <!-- nav items -->
+  <rect x="10" y="68" width="110" height="28" rx="6" fill="#1976D2"/>
+  <text font-family="Arial" font-size="9" font-weight="600" fill="#fff" x="65" y="85" text-anchor="middle">Dashboard</text>
+  <text font-family="Arial" font-size="9" fill="#90CAF9" x="65" y="118" text-anchor="middle">Patient Flow</text>
+  <text font-family="Arial" font-size="9" fill="#90CAF9" x="65" y="143" text-anchor="middle">Bed Allocation</text>
+  <text font-family="Arial" font-size="9" fill="#90CAF9" x="65" y="168" text-anchor="middle">Staff Tasks</text>
+  <text font-family="Arial" font-size="9" fill="#90CAF9" x="65" y="193" text-anchor="middle">Analytics</text>
+
+  <!-- main area -->
+  <!-- top stat cards -->
+  <rect x="148" y="16" width="100" height="56" rx="8" fill="#fff" stroke="#BBDEFB" stroke-width="1"/>
+  <text font-family="Arial" font-size="8" fill="#90A4AE" x="198" y="34" text-anchor="middle">Beds Available</text>
+  <text font-family="Arial" font-size="22" font-weight="800" fill="#1565C0" x="198" y="58" text-anchor="middle">24</text>
+
+  <rect x="260" y="16" width="100" height="56" rx="8" fill="#fff" stroke="#BBDEFB" stroke-width="1"/>
+  <text font-family="Arial" font-size="8" fill="#90A4AE" x="310" y="34" text-anchor="middle">In Treatment</text>
+  <text font-family="Arial" font-size="22" font-weight="800" fill="#0277BD" x="310" y="58" text-anchor="middle">38</text>
+
+  <rect x="372" y="16" width="100" height="56" rx="8" fill="#fff" stroke="#BBDEFB" stroke-width="1"/>
+  <text font-family="Arial" font-size="8" fill="#90A4AE" x="422" y="34" text-anchor="middle">Waiting</text>
+  <text font-family="Arial" font-size="22" font-weight="800" fill="#F57C00" x="422" y="58" text-anchor="middle">7</text>
+
+  <rect x="484" y="16" width="100" height="56" rx="8" fill="#fff" stroke="#BBDEFB" stroke-width="1"/>
+  <text font-family="Arial" font-size="8" fill="#90A4AE" x="534" y="34" text-anchor="middle">Staff Active</text>
+  <text font-family="Arial" font-size="22" font-weight="800" fill="#2E7D32" x="534" y="58" text-anchor="middle">14</text>
+
+  <!-- bed grid -->
+  <text font-family="Arial" font-size="10" font-weight="700" fill="#1565C0" x="148" y="96">Bed Grid — Ward A</text>
+  <!-- grid of bed cells -->
+  <!-- row 1 -->
+  <rect x="148" y="104" width="44" height="28" rx="4" fill="#E3F2FD" stroke="#90CAF9" stroke-width="0.8"/>
+  <text font-family="Arial" font-size="8" fill="#1565C0" x="170" y="122" text-anchor="middle">A01 Free</text>
+  <rect x="198" y="104" width="44" height="28" rx="4" fill="#BBDEFB" stroke="#64B5F6" stroke-width="0.8"/>
+  <text font-family="Arial" font-size="8" fill="#0D47A1" x="220" y="122" text-anchor="middle">A02 Occ.</text>
+  <rect x="248" y="104" width="44" height="28" rx="4" fill="#BBDEFB" stroke="#64B5F6" stroke-width="0.8"/>
+  <text font-family="Arial" font-size="8" fill="#0D47A1" x="270" y="122" text-anchor="middle">A03 Occ.</text>
+  <rect x="298" y="104" width="44" height="28" rx="4" fill="#FFF9C4" stroke="#FDD835" stroke-width="0.8"/>
+  <text font-family="Arial" font-size="8" fill="#F57F17" x="320" y="122" text-anchor="middle">A04 Clean</text>
+  <rect x="348" y="104" width="44" height="28" rx="4" fill="#E3F2FD" stroke="#90CAF9" stroke-width="0.8"/>
+  <text font-family="Arial" font-size="8" fill="#1565C0" x="370" y="122" text-anchor="middle">A05 Free</text>
+  <rect x="398" y="104" width="44" height="28" rx="4" fill="#BBDEFB" stroke="#64B5F6" stroke-width="0.8"/>
+  <text font-family="Arial" font-size="8" fill="#0D47A1" x="420" y="122" text-anchor="middle">A06 Occ.</text>
+
+  <!-- row 2 -->
+  <rect x="148" y="138" width="44" height="28" rx="4" fill="#BBDEFB" stroke="#64B5F6" stroke-width="0.8"/>
+  <text font-family="Arial" font-size="8" fill="#0D47A1" x="170" y="156" text-anchor="middle">A07 Occ.</text>
+  <rect x="198" y="138" width="44" height="28" rx="4" fill="#FFEBEE" stroke="#EF9A9A" stroke-width="0.8"/>
+  <text font-family="Arial" font-size="8" fill="#C62828" x="220" y="156" text-anchor="middle">A08 ICU</text>
+  <rect x="248" y="138" width="44" height="28" rx="4" fill="#E3F2FD" stroke="#90CAF9" stroke-width="0.8"/>
+  <text font-family="Arial" font-size="8" fill="#1565C0" x="270" y="156" text-anchor="middle">A09 Free</text>
+  <rect x="298" y="138" width="44" height="28" rx="4" fill="#E3F2FD" stroke="#90CAF9" stroke-width="0.8"/>
+  <text font-family="Arial" font-size="8" fill="#1565C0" x="320" y="156" text-anchor="middle">A10 Free</text>
+  <rect x="348" y="138" width="44" height="28" rx="4" fill="#BBDEFB" stroke="#64B5F6" stroke-width="0.8"/>
+  <text font-family="Arial" font-size="8" fill="#0D47A1" x="370" y="156" text-anchor="middle">A11 Occ.</text>
+  <rect x="398" y="138" width="44" height="28" rx="4" fill="#FFF9C4" stroke="#FDD835" stroke-width="0.8"/>
+  <text font-family="Arial" font-size="8" fill="#F57F17" x="420" y="156" text-anchor="middle">A12 Clean</text>
+
+  <!-- patient queue -->
+  <text font-family="Arial" font-size="10" font-weight="700" fill="#1565C0" x="148" y="192">Patient Queue</text>
+  <rect x="148" y="200" width="300" height="26" rx="6" fill="#fff" stroke="#BBDEFB" stroke-width="1"/>
+  <circle cx="166" cy="213" r="7" fill="#BBDEFB"/>
+  <text font-family="Arial" font-size="8" font-weight="600" fill="#1A237E" x="180" y="210" dominant-baseline="middle">Patient #1042</text>
+  <text font-family="Arial" font-size="7" fill="#90A4AE" x="180" y="222" dominant-baseline="middle">Ortho • Waiting 12 min</text>
+  <rect x="400" y="204" width="48" height="18" rx="6" fill="#FFF9C4" stroke="#FDD835" stroke-width="0.8"/>
+  <text font-family="Arial" font-size="7" fill="#F57F17" x="424" y="213" text-anchor="middle" dominant-baseline="middle">Assign</text>
+
+  <rect x="148" y="232" width="300" height="26" rx="6" fill="#fff" stroke="#BBDEFB" stroke-width="1"/>
+  <circle cx="166" cy="245" r="7" fill="#C8E6C9"/>
+  <text font-family="Arial" font-size="8" font-weight="600" fill="#1A237E" x="180" y="242" dominant-baseline="middle">Patient #1043</text>
+  <text font-family="Arial" font-size="7" fill="#90A4AE" x="180" y="254" dominant-baseline="middle">Cardio • Waiting 4 min</text>
+  <rect x="400" y="236" width="48" height="18" rx="6" fill="#E8F5E9" stroke="#A5D6A7" stroke-width="0.8"/>
+  <text font-family="Arial" font-size="7" fill="#2E7D32" x="424" y="245" text-anchor="middle" dominant-baseline="middle">Assign</text>
+
+  <!-- staff tasks -->
+  <text font-family="Arial" font-size="10" font-weight="700" fill="#1565C0" x="148" y="288">Staff Tasks</text>
+  <rect x="148" y="296" width="440" height="24" rx="6" fill="#E8F5E9" stroke="#A5D6A7" stroke-width="0.8"/>
+  <text font-family="Arial" font-size="8" fill="#1B5E20" x="162" y="308" dominant-baseline="middle">Dr. Mehta — Room A03 — Cardiology rounds</text>
+  <text font-family="Arial" font-size="7" fill="#66BB6A" x="542" y="308" text-anchor="end" dominant-baseline="middle">In Progress</text>
+
+  <rect x="148" y="326" width="440" height="24" rx="6" fill="#FFF3E0" stroke="#FFCC80" stroke-width="0.8"/>
+  <text font-family="Arial" font-size="8" fill="#E65100" x="162" y="338" dominant-baseline="middle">Nurse Priya — A08 ICU — Vitals check</text>
+  <text font-family="Arial" font-size="7" fill="#FFA726" x="542" y="338" text-anchor="end" dominant-baseline="middle">Pending</text>
+
+  <rect x="148" y="356" width="440" height="24" rx="6" fill="#E8F4FD" stroke="#90CAF9" stroke-width="0.8"/>
+  <text font-family="Arial" font-size="8" fill="#0D47A1" x="162" y="368" dominant-baseline="middle">Reception — A04 — Room sanitization</text>
+  <text font-family="Arial" font-size="7" fill="#42A5F5" x="542" y="368" text-anchor="end" dominant-baseline="middle">Assigned</text>
+</svg>
